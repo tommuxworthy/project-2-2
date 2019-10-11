@@ -26,7 +26,8 @@ class CocktailsIndex extends React.Component {
     if (!this.state.cocktails) return null
     console.log(this.state.cocktails)
     return (
-      <section className="section">
+      <section className="p1bg section">
+        <h1 className="title has-text-centered">All Cocktails</h1>
         <div className="container">
           <div className="columns is-mobile is-multiline">
 

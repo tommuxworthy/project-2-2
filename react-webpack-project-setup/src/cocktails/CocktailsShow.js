@@ -22,19 +22,19 @@ class CocktailsShow extends React.Component {
     if (!this.state.cocktail) return null
     const { cocktail } = this.state
     return (
-        <div className="container">
-          <h2 className="title">{cocktail.name}</h2>
-          <hr />
-          <div className="columns">
-            <div className="column is-half">
-              <figure className="image">
-                <img src={cocktail.strDrinkThumb} alt={cocktail.name} />
-              </figure>
-            </div>
-            </div>
-            </div>
-            )
-          }
-        }
-        
+      <div className="container">
+        <h2 className="title">{cocktail.name}</h2>
+        <hr />
+        <div className="columns">
+          <div className="column is-half">
+            <figure className="image">
+              <img src={cocktail.strDrinkThumb} alt={cocktail.name} />
+            </figure>
+          </div>
+        </div>
+      </div>
+    )
+  }
+}
+
 export default CocktailsShow

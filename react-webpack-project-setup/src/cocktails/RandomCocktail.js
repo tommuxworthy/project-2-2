@@ -25,9 +25,10 @@ class RandomCocktail extends React.Component {
     const { cocktail } = this.state
     console.log(cocktail)
     return (
-      <section className="section">
+      <section className="p1bg section">
+        <h1 className="title has-text-centered">Your Random Cocktail</h1>
         <div className="container">
-          <div className="columns is-mobile is-multiline">
+          <div className="columns is-mobile is-pulled-right">
 
             <CocktailCard {...cocktail} />
 
