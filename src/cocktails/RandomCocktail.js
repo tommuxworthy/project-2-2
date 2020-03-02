@@ -17,9 +17,6 @@ class RandomCocktail extends React.Component {
       .catch(err => console.log(err))
   }
 
-
-
-
   render() {
     if (!this.state.cocktail) return null
     const { cocktail } = this.state

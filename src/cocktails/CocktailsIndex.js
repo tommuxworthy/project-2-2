@@ -18,10 +18,6 @@ class CocktailsIndex extends React.Component {
       .catch(err => console.log(err))
   }
 
-
-
-
-
   render() {
     if (!this.state.cocktails) return null
     console.log(this.state.cocktails)
