@@ -20,10 +20,13 @@ Deployment
 - 
 - This application is deployed on GitHub Pages and it can be found here: 
 
+![Screenshot P2 Site 1](https://user-images.githubusercontent.com/48793557/75680094-af9f9400-5c88-11ea-951b-96673c7c9cef.png)
+
 Getting Started
 - 
 In GitHub, use the clone button to download the game source code. Then, open the index.html file in your browser and the game should start - if not check console for any issues. The images used in this game are stored in the images folder and are all png files.
 
+![Screenshot P2 Site 2](https://user-images.githubusercontent.com/48793557/75680078-aadae000-5c88-11ea-95b8-e282c1296e32.png)
 
 Motivation
 - 
