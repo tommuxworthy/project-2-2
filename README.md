@@ -32,7 +32,7 @@ https://cocktails-list-tom.herokuapp.com/
 
 Getting Started
 - 
-In GitHub, use the clone button to download the game source code. Then, open the index.html file in your browser and the game should start - if not check console for any issues. The images used in this game are stored in the images folder and are all png files.
+In GitHub, use the clone button to download the application source code.
 
 Motivation
 - 
