@@ -20,6 +20,7 @@ Built With
 5. axios
 6. bulma
 7. GitHub
+8. Heroku
 
 Deployment
 - 
