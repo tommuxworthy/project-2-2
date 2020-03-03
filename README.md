@@ -1,7 +1,7 @@
 # project-02
 This was my second project of the General Assembly Software Engineering Immersive course (Week 6).
 
-*Timeframe*
+**Timeframe**
 - 
 - 48 hours
 
