@@ -1,5 +1,5 @@
 # project-02
-This was my second project of the General Assembly Software Engineering Immersive course (Week 6).
+This was my second project of the General Assembly Software Engineering Immersive course (Week 6). I completed this project in a pair.
 
 **Timeframe**
 - 
