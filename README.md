@@ -3,7 +3,7 @@ This was my second project of the General Assembly Software Engineering Immersiv
 
 **Timeframe**
 - 
-- 48 hours
+- 2 days
 
 Virtual Bartender
 -
