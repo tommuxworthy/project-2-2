@@ -23,7 +23,9 @@ Built With
 
 Deployment
 - 
-- This application is deployed on GitHub Pages and it can be found here: 
+- This application is deployed on Heroku and it can be found here: 
+
+https://cocktails-list-tom.herokuapp.com/
 
 ![Screenshot P2 Site 1](https://user-images.githubusercontent.com/48793557/75680094-af9f9400-5c88-11ea-951b-96673c7c9cef.png)
 
