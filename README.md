@@ -1,6 +1,10 @@
 # project-02
 This was my second project of the General Assembly Software Engineering Immersive course (Week 6).
 
+*Timeframe*
+- 
+- 48 hours
+
 Virtual Bartender
 -
 - The objective of this project was to build a React application that consumes a public API
